@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="chuizhijuzhongduiqi" unicode="&#58964;" d="M486.4 793.6l51.2 0 0-409.6-51.2 0 0 409.6ZM486.4 76.8l51.2 0 0-102.4-51.2 0 0 102.4ZM307.2 691.2l409.6 0 0-256-409.6 0 0 256ZM768 332.8l0-204.8L256 128l0 204.8L768 332.8M819.2 384 204.8 384l0-307.2 614.4 0L819.2 384 819.2 384z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="shangduiqi" unicode="&#58967;" d="M921.6 640 921.6 691.2 102.4 691.2l0-51.2L921.6 640zM819.2 179.2 819.2 588.8l-256 0 0-409.6L819.2 179.2zM460.8 537.6l0-512L256 25.6 256 537.6 460.8 537.6M512 588.8 204.8 588.8l0-614.4 307.2 0L512 588.8 512 588.8z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="shuipingjuzhongduiqi" unicode="&#58968;" d="M102.4 409.6l102.4 0 0-51.2-102.4 0 0 51.2ZM512 409.6l409.6 0 0-51.2-409.6 0 0 51.2ZM563.2 563.2l256 0 0-358.4-256 0 0 358.4ZM460.8 640l0-512L256 128 256 640 460.8 640M512 691.2 204.8 691.2l0-614.4 307.2 0L512 691.2 512 691.2z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="xiaduiqi" unicode="&#58970;" d="M921.6 76.8l0-51.2L102.4 25.6l0 51.2L921.6 76.8zM870.4 537.6l0-409.6-256 0L614.4 537.6 870.4 537.6zM460.8 691.2l0-512L256 179.2 256 691.2 460.8 691.2M512 742.4 204.8 742.4l0-614.4 307.2 0L512 742.4 512 742.4z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="youduiqi" unicode="&#58971;" d="M819.2 793.6l51.2 0 0-819.2-51.2 0 0 819.2ZM358.4 691.2l409.6 0 0-256-409.6 0 0 256ZM716.8 332.8l0-204.8L204.8 128l0 204.8L716.8 332.8M768 384 153.6 384l0-307.2 614.4 0L768 384 768 384z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="zuoduiqi" unicode="&#58972;" d="M153.6 793.6l51.2 0 0-819.2-51.2 0 0 819.2ZM256 691.2l409.6 0 0-256-409.6 0 0 256ZM819.2 332.8l0-204.8L307.2 128l0 204.8L819.2 332.8M870.4 384 256 384l0-307.2 614.4 0L870.4 384 870.4 384z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

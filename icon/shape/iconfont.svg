@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="juxing" unicode="&#59280;" d="M898.8 696.4v-624.8H125.2V696.4h773.6m59.5 59.5H65.7v-743.8h892.5V755.9h0.1z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="tuoyuanxing" unicode="&#59281;" d="M512 696.4c53.5 0 105.3-8.7 153.9-25.8 46.4-16.4 88-39.7 123.5-69.3 70.5-58.7 109.3-135.9 109.3-217.3s-38.8-158.5-109.3-217.3c-35.5-29.6-77.1-52.9-123.5-69.3-48.6-17.1-100.4-25.8-153.9-25.8s-105.3 8.7-153.9 25.8c-46.4 16.4-88 39.7-123.5 69.3-70.5 58.8-109.4 135.9-109.4 217.3S164 542.5 234.5 601.3c35.5 29.6 77.1 52.9 123.5 69.3 48.7 17.1 100.5 25.8 154 25.8m0 59.5C265.5 755.9 65.7 589.4 65.7 384c0-205.4 199.8-371.9 446.3-371.9S958.3 178.6 958.3 384c0 205.4-199.8 371.9-446.3 371.9z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
